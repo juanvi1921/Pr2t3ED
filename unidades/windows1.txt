@@ -1,0 +1,4 @@
+Windows es el nombre de una familia de distribuidores de software para PC,
+telefonos inteligentes, servidores y sistemas empotrados, desarrollados y 
+vendidos por Microsoft y disponibles para multiples arquitecturas, tales 
+como x86, x86-64 y ARM.
